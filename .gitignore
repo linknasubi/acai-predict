@@ -5,9 +5,9 @@
 *.nc4
 *.nc4.part
 
-# (opcional) outros formatos NetCDF comuns
+#  outros formatos NetCDF comuns
 *.nc
 
-# (opcional) pasta de downloads (ajuste o nome se for diferente)
+#  pasta de downloads (ajuste o nome se for diferente)
 dados_gpcp/
 downloads/
