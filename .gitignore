@@ -1,0 +1,13 @@
+# credenciais
+.env
+
+# dados NetCDF
+*.nc4
+*.nc4.part
+
+# (opcional) outros formatos NetCDF comuns
+*.nc
+
+# (opcional) pasta de downloads (ajuste o nome se for diferente)
+dados_gpcp/
+downloads/
